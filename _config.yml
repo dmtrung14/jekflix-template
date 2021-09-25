@@ -1,14 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Math Inspiration
+title: Math Inspiration | Creating inspiration with Maths from your early age.
+description: Math Inspiration is a website made by Dang Minh Trung dedicated to learning mathematics through illustrious Scratch games.
 tags:
   - blog
   - template
   - jekyll
   - theme
-  - netlify
+  - maths
+  - fabulous
+  - algorithms
 show_hero: true
 menu:
   - title: Home

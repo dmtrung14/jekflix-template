@@ -1,8 +1,8 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Snow white and 7 chu lun hahaha 
-subtitle: Lorem ipsum 
+title: Cinderella
+subtitle: Lo lem Ipsum 
 description: Lorem ipsum dolor sit down
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg

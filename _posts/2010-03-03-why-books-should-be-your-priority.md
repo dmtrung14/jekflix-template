@@ -15,6 +15,11 @@ paginate: true
 ---
 
 # Snow white and the seven dwarfs
+<details>
+<summary>Theories</summary>
+<br>
+Insert theories here
+</details>
 
 # The game
 

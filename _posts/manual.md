@@ -4,8 +4,7 @@ layout: post
 title: Introduction to using Maths Inspiration
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  This is a super brief manual to using my github page
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-

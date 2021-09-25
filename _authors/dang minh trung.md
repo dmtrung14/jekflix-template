@@ -1,10 +1,10 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
-bio: Just a developer.
+name: minhtrung
+display_name: Dang Minh Trung
+position: Founder/Coder
+bio: A mathematician, Coder, and Prospective science communicator
 github_username: dmtrung14
 facebook_username: https://www.facebook.com/the.matheMagicia/
 instagram_username: minhtrung__dang

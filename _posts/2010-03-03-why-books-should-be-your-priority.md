@@ -10,10 +10,12 @@ category: life
 tags:
   - books
   - read
-author: thiagorossener
+author: minhtrungdang
 paginate: true
 ---
 
-Snow white and the seven dwarfs
+# Snow white and the seven dwarfs
+
+# The game
 
 <iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

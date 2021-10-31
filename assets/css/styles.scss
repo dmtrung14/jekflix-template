@@ -19,8 +19,8 @@ button.accordion {
   cursor: pointer;
   transition: background-color 0.2s linear;
 }
-button.accordion:hover, button.accordion.is-open {
-  background-color: #ddd;
+button.accordion:hover,{
+  background-color: whitesmoke;
 }
 
 .accordion-content {

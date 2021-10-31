@@ -19,6 +19,6 @@ paginate: true
 ## Who am I
 
 <button class="accordion">Section 1</button>
-<div class="panel">
+<div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>
 </div>

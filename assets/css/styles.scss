@@ -1,7 +1,7 @@
 ---
 ---
 @import "jekflix";
-button.accordion {
+.accordion {
     background-color: #eee;
     color: #444;
     cursor: pointer;
@@ -19,9 +19,11 @@ button.accordion {
   }
   
   /* Style the accordion panel. Note: hidden by default */
-  .panel {
+  .accordion-content {
     padding: 0 18px;
-    background-color: white;
-    display: none;
-    overflow: hidden;
+   border-left: white;
+   border-right: white;
+   display: none;
+   max-height: 0;
+   overflow: hidden;
   }

@@ -1,11 +1,11 @@
 ---
 ---
 @import "jekflix";
-.accordion {
+button.accordion {
     background-color: #eee;
     color: #444;
     cursor: pointer;
-    padding: 18px;
+    padding: 15px 20px;
     width: 100%;
     text-align: left;
     border: none;
@@ -14,13 +14,13 @@
   }
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
- .accordion:hover {
+ button.accordion:hover {
     background-color: #ccc;
   }  
   .accordion-content {
     padding: 0 18px;
-   border-left: white;
-   border-right: white;
+   border-left: 1px white;
+   border-right: 1px white;
    display: none;
    max-height: 0;
    overflow: hidden;

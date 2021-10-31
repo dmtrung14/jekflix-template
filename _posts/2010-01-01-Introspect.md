@@ -13,12 +13,12 @@ category: blog
 tags:
   - welcome
   - blog
-author: minhtrungdang
+author: minhtrung
 paginate: true
 ---
 ## Who am I
 
 <button class="accordion">Section 1</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <p>Lorem ipsum dolor sit amet</p>
 </div>

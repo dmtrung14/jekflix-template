@@ -21,6 +21,10 @@ paginate: true
 <br>
 Insert theories here
 </details>
+<button class="accordion"> Theories </button>
+<div class="accordion-content">
+  <p>Help</p>
+</div>
 
 # The game
 

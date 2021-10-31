@@ -20,7 +20,7 @@ button.accordion {
   transition: background-color 0.2s linear;
 }
 button.accordion:hover,{
-  background-color: whitesmoke;
+  background-color: #ddd;
 }
 
 .accordion-content {
@@ -30,5 +30,4 @@ button.accordion:hover,{
   padding: 0 20px;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.2s ease-in-out;
 }

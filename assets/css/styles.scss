@@ -1,6 +1,11 @@
 ---
 ---
 @import "jekflix";
+.container{
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+}
 button.accordion {
     background-color: #eee;
     color: #444;
@@ -18,7 +23,7 @@ button.accordion {
     background-color: #ccc;
   }  
   .accordion-content {
-    padding: 0 18px;
+   padding: 0 18px;
    border-left: 1px solid white;
    border-right: 1px solid white;
    display: none;

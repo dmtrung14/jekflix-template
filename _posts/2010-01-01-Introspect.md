@@ -17,7 +17,7 @@ author: minhtrung
 paginate: true
 ---
 ## Who am I
-<button class="accordion">Section 1</button>
+<button class="accordion"> Who am I </button>
 <div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>
 </div>

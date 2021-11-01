@@ -4,8 +4,8 @@ layout: post
 title: Witch Bakery - PATTERNS
 subtitle: Ba phu thuy tham an
 description: va hai co cau be tham an khong kem
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/patterns_pjtpat.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/patterns_pjtpat.png
 category: music
 tags:
   - music

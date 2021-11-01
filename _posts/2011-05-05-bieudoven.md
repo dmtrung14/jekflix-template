@@ -4,8 +4,8 @@ layout: post
 title: Venn diagram
 subtitle: Bieu do Ven
 description: Cac ban toan lien quan den con cho va con meo
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/backgroun-Venn_hv8eei.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/backgroun-Venn_hv8eei.png
 category: code
 tags:
   - platform

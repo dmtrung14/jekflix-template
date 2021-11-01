@@ -4,8 +4,8 @@ layout: post
 title: Prime detective
 subtitle: Tham tu so nguyen to
 description: Let's find so prime numbers
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/prime-number_afe8xw.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/prime-number_afe8xw.png
 category: diet
 tags:
   - food

@@ -4,8 +4,8 @@ layout: post
 title: Cinderella
 subtitle: Lo lem Ipsum 
 description: Lorem ipsum dolor sit down
-image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/combination_q8brh6.png
-optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/combination_q8brh6.png
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 category: life
 tags:
   - books

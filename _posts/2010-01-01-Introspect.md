@@ -6,9 +6,9 @@ subtitle: 'Creating inspiration with Math from your early age'
 description: >-
   Welcome to Math Inspiration!
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
 category: blog
 tags:
   - welcome

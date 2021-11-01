@@ -4,8 +4,8 @@ layout: post
 title: Basic calculation
 subtitle: Phep toan cong co ban (bai toan co con voi)
 description: Bai toan co con voi
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
 category: css
 tags:
   - css

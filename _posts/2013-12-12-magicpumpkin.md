@@ -4,8 +4,8 @@ layout: post
 title: magicpumpkin
 description: quabingokidieu
 subtitle: bi ngo ki dieu
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: 'blog'
 tags:

@@ -4,8 +4,8 @@ layout: post
 title: Breadth first search
 subtitle: tim kiem theo chieu ngang.
 description: Di tim nemo thoi
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/tim-kiem-theo-chieu-rong_oqm1zw.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/tim-kiem-theo-chieu-rong_oqm1zw.png
 category: tutorial
 tags:
   - jedi

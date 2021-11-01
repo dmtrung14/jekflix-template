@@ -4,8 +4,8 @@ layout: post
 title: Geometric learning with househole utensils
 subtitle: Hoc hinh cung dung cu gia dinh
 description: Dung cu gia dinh
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824575/theme14_gi2ypv.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824575/theme14_gi2ypv.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/learn-geometry-with-househole-articles_rk5vgq.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/learn-geometry-with-househole-articles_rk5vgq.png
 category: diet
 tags:
   - cook

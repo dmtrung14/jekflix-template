@@ -4,8 +4,8 @@ layout: post
 title: Paint the fence
 subtitle: Bai toan to mau hang rao
 description: Help Tom Sawyer
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/fence-paiting_beqbtd.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/fence-paiting_beqbtd.png
 category: music
 tags:
   - crazy

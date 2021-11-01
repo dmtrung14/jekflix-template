@@ -5,8 +5,8 @@ title: A day of the seven dwarfs
 subtitle: bay chu lun vui ve
 description: hahahaha
 category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/combination_q8brh6.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/combination_q8brh6.png
 tags:
   - fate
   - travel

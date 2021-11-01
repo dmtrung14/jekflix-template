@@ -4,8 +4,8 @@ layout: post
 title: Gigantic Turnip - planting problems
 subtitle: Cu cai to dung nga ngua va bai toan trong cay
 description: Nho cu cai
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
+image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/Planting-problems_ssyuu8.png
+optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/Planting-problems_ssyuu8.png
 category: css
 tags:
   - css

@@ -15,8 +15,15 @@ tags:
   - blog
 author: minhtrung
 paginate: true
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 ## Who am I
+
+{% include accordion.html %}
 
 <button class="accordion"> My name 6 </button>
 <div class="accordion-content">

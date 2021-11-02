@@ -18,13 +18,13 @@ paginate: true
 ---
 ## Who am I
 
-<button class="accordion"> My name 4 </button>
+<button class="accordion"> My name 6 </button>
 <div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>
 </div>
 
-<script src= "accordion"> 
-<button class="accordion"> My name 4 </button>
+<script src= "accordion.js"> 
+<button class="accordion"> My name 5 </button>
 <div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>
 </div>

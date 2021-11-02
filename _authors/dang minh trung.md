@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: https://res.cloudinary.com/dogipandt/image/upload/v1635863216/Minh%20Trung%20Dang.jpg
 name: minhtrung
 display_name: Dang Minh Trung
 position: Founder/Coder

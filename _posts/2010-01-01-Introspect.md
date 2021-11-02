@@ -21,3 +21,7 @@ paginate: true
 <div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>
 </div>
+
+<script>
+  new Accordion('.accordion-container');
+</script>

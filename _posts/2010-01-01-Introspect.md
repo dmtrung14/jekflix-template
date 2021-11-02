@@ -25,6 +25,7 @@ paginate: true
 <script>
   new Accordion('.accordion-container');
 </script>
+
 <div class="accordion-container">
   <div class="ac">
     <h2 class="ac-header">

@@ -25,13 +25,6 @@ accordion:
 
 {% include accordion.html %}
 
-<button class="accordion"> My name 6 </button>
-<div class="accordion-content">
-  <p>Lorem ipsum dolor sit amet</p>
-</div>
-<button class="accordion"> My name 7 </button>
-<div class="accordion-content">
-  <p>Lorem ipsum dolor sit amet</p>
-</div>
+
 
 

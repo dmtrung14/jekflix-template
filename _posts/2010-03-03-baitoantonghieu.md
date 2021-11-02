@@ -10,7 +10,7 @@ category: life
 tags:
   - books
   - read
-author: minhtrungdang
+author: minhtrung
 paginate: true
 ---
 

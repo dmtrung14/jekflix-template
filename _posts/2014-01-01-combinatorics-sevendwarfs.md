@@ -10,7 +10,7 @@ optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/c
 tags:
   - fate
   - travel
-author: thiagorossener
+author: minhtrung
 ---
 
 <iframe src="https://scratch.mit.edu/projects/566388553/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

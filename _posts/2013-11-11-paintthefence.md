@@ -10,8 +10,7 @@ category: music
 tags:
   - crazy
   - story
-author: minhtrungdang
----
+author: minhtrung
 # hello world
 
 <iframe src="https://scratch.mit.edu/projects/566467626/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

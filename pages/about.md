@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Dang Minh Trung" width="200">
+<img class="img-rounded" src="https://res.cloudinary.com/dogipandt/image/upload/v1635863216/Minh%20Trung%20Dang.jpg" alt="Dang Minh Trung" width="200">
 
 # About
 

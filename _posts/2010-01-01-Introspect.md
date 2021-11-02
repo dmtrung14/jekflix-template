@@ -23,7 +23,7 @@ paginate: true
   <p>Lorem ipsum dolor sit amet</p>
 </div>
 
-<script src= "accordion">
+<script src= "accordion.js">
 <button class="accordion"> My name 7 </button>
 <div class="accordion-content">
   <p>Lorem ipsum dolor sit amet</p>

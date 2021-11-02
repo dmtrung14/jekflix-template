@@ -22,6 +22,12 @@ paginate: true
   <p>Lorem ipsum dolor sit amet</p>
 </div>
 
-<script>
-  new Accordion('.accordion-container');
-</script>
+<div class="accordion-container">
+  <div class="ac">
+    <h2 class="ac-header">
+      <button class="ac-trigger">Lorem ipsum dolor sit amet.</button>
+    </h2>
+    <div class="ac-panel">
+      <p class="ac-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>

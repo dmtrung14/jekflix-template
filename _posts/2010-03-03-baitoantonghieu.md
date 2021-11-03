@@ -16,19 +16,5 @@ author: minhtrung
 paginate: true
 ---
 
-# Cinderella
-
-<details>
-<summary>Theories</summary>
-<br>
-Insert theories here
-</details>
-
-<button class="accordion"> Theories </button>
-<div class="accordion-content">
-  <p>Help</p>
-</div>
-
-# The game
 <a href="https://scratch.mit.edu/projects/572196451/fullscreen/"> Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>

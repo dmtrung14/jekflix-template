@@ -6,7 +6,7 @@ subtitle: Bài toán biểu đồ Ven
 description: Trong lớp có bạn giỏi toán, có bạn giỏi văn, lại có bạn giỏi cả toán lẫn văn. Có bạn nuôi chó, có bạn nuôi mèo, và có bạn nuôi cả hai con. Làm thế nào để tìm được số phần tử trong một tập hợp đây?
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/backgroun-Venn_hv8eei.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/backgroun-Venn_hv8eei.png
-category: logical, counting
+category: logical
 tags:
   - Venn diagram
   - set and subset

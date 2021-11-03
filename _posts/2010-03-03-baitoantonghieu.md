@@ -6,7 +6,7 @@ subtitle: Bài toán tổng hiệu
 description: Nàng Lọ Lem đi dạ hội
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
-category: computational; algebra
+category: algebra
 tags:
   - princess
   - sum and difference

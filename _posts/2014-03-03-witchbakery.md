@@ -6,7 +6,7 @@ subtitle: Tiệm bánh phù thủy - Quy luật dãy số, tính chia hết, và
 description: Bà phù thủy đã bắt mất Hansel và Gretel khi chúng đang đi chơi trong rừng, và phạt chúng làm việc trong tiệm bánh của mình. Giữa những món đồ ngon ngọt hấp dẫn, nhiệm vụ tối quan trọng vẫn là thoát ra ngoài. Các bạn hãy giúp 2 anh em nhé!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/patterns_pjtpat.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/patterns_pjtpat.png
-category: counting; algorithms; algebra
+category: algorithms
 tags:
   - residue
   - remainder

@@ -25,6 +25,8 @@ accordion:
     content: Totally! Look for the "Clone the games" button on the top right of the page and click on it. It will lead you to my Scratch repository, where you can find the code for all the embedded content on this website. Feel free clone the code down and apply them to illustrate any math problem you want. 
   - title: Do we accept submission?
     content: To ensure the uniformity of content on the page, we currently do not accept submissions. However, you can suggest problems and games by sending email to me either via email or Facebook. 
+  - title: Cannot toggle full screen?
+    content: Yes, toggle full screen seems to be unavailable on external web. Therefore, if you find it hard to read on Math Inspiration, I always embed a *Toggle full screen* button on top of each game. This should lead you to the fullscreen mode of the game.
 
 ---
 

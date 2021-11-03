@@ -6,7 +6,6 @@ description: Quả bí ngô kì diệu - thuật toán đơn độc
 subtitle: Bà phù thủy có những chiếc đèn lồng bí ngô rất đẹp và cũng hoạt động rất khác thường. Làm sao bật hết các đèn lên đây?
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 category: challenges
 tags:
   - difficult

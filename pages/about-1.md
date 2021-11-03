@@ -5,7 +5,6 @@ date: '2020-02-27 01:53:59'
 title: About
 permalink: /about/
 description: Some description.
-    
 ---
 
 <img class="img-rounded" src="https://res.cloudinary.com/dogipandt/image/upload/v1635869152/Minh_Trung_Dang-Circle_pjmzjw.jpg" alt="Dang Minh Trung" width="200">
@@ -20,18 +19,3 @@ Even though I take great pride in my achievements, they are not the entire mathe
 
  I hope that you will have an enjoyable using my website. For any inquiry, please reach out to me at: trungdangminh14012004@gmail.com
 
- 
-<head>
-<style>
-h1 {text-align: center;}
-p {text-align: justify;}
-</style>
-</head>
-<body>
-
-<h1>FAQs about myself</h1>
-
-</body>
-
-
-{% include accordion.html %}

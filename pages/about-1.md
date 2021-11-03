@@ -17,7 +17,6 @@ accordion:
 <img class="img-rounded" src="https://res.cloudinary.com/dogipandt/image/upload/v1635869152/Minh_Trung_Dang-Circle_pjmzjw.jpg" alt="Dang Minh Trung" width="200">
 
 # About
-
 Greetings,
 
 My name is Dang Minh Trung. I am a senior at Hanoi-Amsterdam High school for Gifted students. Since my childhood, Mathematics has been an inseparable part of my life. Throughout my life, I have won the second prize in Vietnam National Mathematics Olympiad, and qualified for the Team Selection Test for IMO 2021. Besides this, I also won Gold medal at the HOMC 2018, and I am the valedictorian of the High school entrance exam to Mathematics Class of 2022. 
@@ -26,6 +25,6 @@ Even though I take great pride in my achievements, they are not the entire mathe
 
  I hope that you will have an enjoyable using my website. For any inquiry, please reach out to me at: trungdangminh14012004@gmail.com
 
-<h1>Q&A </h1>
+<h1>Q&A {% include accordion.html %}</h1>
 
-{% include accordion.html %}
+

@@ -6,11 +6,13 @@ subtitle: Tìm kiếm them chiều ngang.
 description: Con đường nào rồi cũng dẫn đến thành Rome, nhưng sự hiệu quả phải được đặt lên hàng đầu? Đâu là con đường ngắn nhất và ít nguy hiểm nhất? BFS là một thuật toán hiệu quả để tìm câu trả lời!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/tim-kiem-theo-chieu-rong_oqm1zw.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/tim-kiem-theo-chieu-rong_oqm1zw.png
-category: tutorial
+category: algorithms; counting
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - breadth first search
+  - BFS
+  - santa claus
+  - shortest route
+  - difficult
 author: minhtrung
 ---
 # fancy title

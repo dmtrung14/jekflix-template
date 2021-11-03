@@ -6,15 +6,17 @@ subtitle: Bài toán tổng hiệu
 description: Nàng Lọ Lem đi dạ hội
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
-category: life
+category: computational; algebra
 tags:
-  - books
-  - read
+  - princess
+  - sum and difference
+  - system of equations
+  - intermediate
 author: minhtrung
 paginate: true
 ---
 
-# Snow white and the seven dwarfs
+# Cinderella
 
 <details>
 <summary>Theories</summary>

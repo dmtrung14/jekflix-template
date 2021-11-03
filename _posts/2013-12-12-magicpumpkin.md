@@ -7,11 +7,12 @@ subtitle: Bà phù thủy có những chiếc đèn lồng bí ngô rất đẹp
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/magic-pumkins_hzblxf.png
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-category: 'blog'
+category: challenges; algorithms
 tags:
-  - jekyll
-  - wordpress
-  - blog
+  - difficult
+  - algorithm
+  - singular
+  - optimal
 author: minhtrung
 ---
 

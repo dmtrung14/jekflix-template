@@ -9,10 +9,11 @@ image: >-
   https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
 optimized_image: >-
   https://res.cloudinary.com/dogipandt/image/upload/v1622138045/inspiration_qkzh0y.jpg
-category: blog
+category: tutorial
 tags:
   - welcome
-  - blog
+  - tutorial
+  - faqs
 author: minhtrung
 paginate: true
 accordion: 

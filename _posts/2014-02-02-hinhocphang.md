@@ -6,11 +6,11 @@ subtitle: Hình học trong dụng cụ gia đình
 description: Toán học ở quanh ta, và tất nhiên là trong cả các đồ dùng hàng ngày của ta nữa. Bạn có thể kể tên bao nhiêu hình dạng của các đồ vật gia dụng?
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/learn-geometry-with-househole-articles_rk5vgq.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/learn-geometry-with-househole-articles_rk5vgq.png
-category: diet
+category: geometry
 tags:
-  - cook
-  - cucine
-  - story
+  - basic
+  - shapes
+  - matching
 author: minhtrung
 ---
 

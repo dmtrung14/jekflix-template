@@ -6,10 +6,12 @@ subtitle: Thám tử số nguyên tố
 description: Số nguyên tố rất đặc biêt, nó chỉ có hai ước nguyên tố duy nhất là 1 và chính nó. Có cách nào để "chỉ điểm" cho thám tử các số nguyên tố không?
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/prime-number_afe8xw.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/prime-number_afe8xw.png
-category: diet
+category: algebra; algorithms
 tags:
-  - food
-  - tips
+  - prime numbers
+  - algorithms
+  - prime factorization
+  - easy
 author: minhtrung
 ---
 

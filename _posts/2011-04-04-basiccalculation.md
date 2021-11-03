@@ -6,10 +6,11 @@ subtitle: Những phép tính cộng cơ bản
 description: The funny elephant in the classroom. Try to catch and calculate the numbers!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
-category: css
+category: computational; algebra
 tags:
-  - css
-  - tips
+  - addition
+  - animal
+  - basic
 author: minhtrung
 ---
 # interesting

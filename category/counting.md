@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Counting
+title: Counting/Combinatorics
 slug: counting
-description: A category for Counting related games
+description: A category for Counting/Combinatorics related games
 ---

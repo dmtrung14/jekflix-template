@@ -6,10 +6,11 @@ subtitle: Ông lão đánh cá và con cá vàng - Bài toán tỉ lệ
 description: Bà vợ tai quái của ông lão ngư dân đáng thương lại đặt ra những yêu cầu khó chịu. Hãy giúp ông lão nhé!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635958943/ratio_izvaky.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635958943/ratio_izvaky.png
-category: life
+category: algorithms
 tags:
-  - life
-  - tips
+  - easy
+  - ratio
+  - system of equations
 author: minhtrung
 ---
 <iframe src="https://scratch.mit.edu/projects/575171861/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

@@ -14,7 +14,12 @@ tags:
   - intermediate
 author: minhtrung
 paginate: true
+accordion:
+  - title: Theory
+    content: Okay
+  - title: Tools
+    content: Okay
 ---
-
+{% include accordion.html %}
 <a href="https://scratch.mit.edu/projects/572196451/fullscreen/"> Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>

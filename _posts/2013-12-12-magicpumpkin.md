@@ -13,6 +13,12 @@ tags:
   - singular
   - optimal
 author: minhtrung
+accordion:
+  - title: Theory
+    content: Okay
+  - title: Tools
+    content: Okay
 ---
+{% include accordion.html %}
 <a href= "https://scratch.mit.edu/projects/566389290/fullscreen/">Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566389290/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

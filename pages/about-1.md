@@ -5,13 +5,7 @@ date: '2020-02-27 01:53:59'
 title: About
 permalink: /about/
 description: Some description.
-accordion:
-    - title: How long have you been doing Maths?
-    content: Well Maths has been a vital part of my life since I was 3. I like to think that Mathematics exists in all kind of stories and objects we encounter in daily life. So I assume it is a vital part of *yours* life too!
-    - title: Do I like anything else?
-    content: Well, yes, I do! It might be surprising (or not), but I'm a big fan of astronomy and cosmology, and I really love sharing about extraterrestrial life. <br> So if you would like to read it, here's my blog <a href="https://planetariats.wordpress.com/"> Planetariats <a>. I hope you like both sites as much as I do!
-    - title: This site is too childish! How can I find you on more advanced Maths site? 
-    content: I'm glad you asked. Mathematic forums has been a vital parts of my Olympiad training. Currently I have an active account on AOPS and MSE. I mostly use AOPS to look up problems and search for materials, while I am a more active writer and member on MSE. You can find my questions and answers on my <a href="https://math.stackexchange.com/users/756249/nikola-tolzsek"> MSE Profile - Nikola Tolzsek <a>
+    
 ---
 
 <img class="img-rounded" src="https://res.cloudinary.com/dogipandt/image/upload/v1635869152/Minh_Trung_Dang-Circle_pjmzjw.jpg" alt="Dang Minh Trung" width="200">

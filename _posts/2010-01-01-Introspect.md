@@ -17,7 +17,7 @@ author: minhtrung
 paginate: true
 accordion: 
   - title: How to use
-    content: <p> On each page, you will see a brief introduction of the topic, and neccessary formulas (if there is) at the FAQs on top of the page. Then scroll down, you shall see the Scratch game embedded directly to the site. </p> <br></br> <p> Not sure how to use the game?</P> <p> Don't worry, inside the game, find the instruction button on the top right corner of the game, you will see the full guide to all features of the game. </p>
+    content: <p> On each page, you will see a brief introduction of the topic, and neccessary formulas (if there is) at the FAQs on top of the page. Then scroll down, you shall see the Scratch game embedded directly to the site. </p> <br> <p> Not sure how to use the game?</P> <p> Don't worry, inside the game, find the instruction button on the top right corner of the game, you will see the full guide to all features of the game. </p>
   - title: Can I re-use the games?
     content: Totally! Look for the "Clone the games" button on the top right of the page and click on it. It will lead you to my Scratch repository, where you can find the code for all the embedded content on this website. Feel free clone the code down and apply them to illustrate any math problem you want. 
   - title: Do we accept submission?

@@ -1,9 +1,9 @@
 ---
 date: 2018-10-09 12:26:40
 layout: post
-title: Basic calculation
-subtitle: Phep toan cong co ban (bai toan co con voi)
-description: Bai toan co con voi
+title: Basic addition problems
+subtitle: Những phép tính cộng cơ bản
+description: The funny elephant in the classroom. Try to catch and calculate the numbers!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742743/find-the-sum-of-2-numbers-n%E1%BB%81n_ikjzwb.png
 category: css

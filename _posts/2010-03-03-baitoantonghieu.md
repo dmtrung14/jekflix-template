@@ -1,9 +1,9 @@
 ---
 date: 2018-11-22 12:26:40
 layout: post
-title: Cinderella
-subtitle: Lo lem Ipsum 
-description: Lorem ipsum dolor sit down
+title: Sum and Difference Problem
+subtitle: Bài toán tổng hiệu
+description: Nàng Lọ Lem đi dạ hội
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 category: life

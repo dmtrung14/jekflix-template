@@ -21,7 +21,8 @@ accordion:
   - title: this is item 2
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
-<p> Welcome to *Math Inspiration*, a blog for young mathematic enthusiasts to come and play mathematical games. information on frequently asked questions can be found below. Had you got any question, please feel free to reach out to <a href="https://www.facebook.com/the.matheMagicia" target="_blank" class="creator">Minh Trung Dang</a>. </p>
+Welcome to *Math Inspiration*, a blog for young mathematic enthusiasts to come and play mathematical games. information on frequently asked questions can be found below. Had you got any question, please feel free to reach out to <a href="https://www.facebook.com/the.matheMagicia" target="_blank" class="creator">Minh Trung Dang</a>.
+
  <html>
 <head>
 <style>

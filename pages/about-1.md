@@ -29,12 +29,13 @@ Even though I take great pride in my achievements, they are not the entire mathe
 <head>
 <style>
 h1 {text-align: center;}
+div{text-align: center;}
 </style>
 </head>
 <body>
 <h1>FAQs about me </h1>
-
+<div>
+{% include accordion.html %} </div>
 </body>
 
 
-{% include accordion.html %}

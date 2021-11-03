@@ -29,7 +29,6 @@ Even though I take great pride in my achievements, they are not the entire mathe
 <head>
 <style>
 h1 {text-align: center;}
-p {text-align: justify;}
 </style>
 </head>
 <body>

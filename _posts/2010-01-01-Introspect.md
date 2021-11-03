@@ -38,7 +38,6 @@ p {text-align: justify;}
 
 </body>
 
-
 {% include accordion.html %}
 
 

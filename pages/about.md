@@ -29,7 +29,7 @@ h1 {text-align: center;}
 </style>
 </head>
 <body>
-<h1>FAQs about me </h1>
+<h1>Q&A </h1>
 <div>
 {% include accordion.html %} </div>
 </body>

@@ -14,5 +14,5 @@ tags:
   - number of ways
 author: minhtrung
 ---
-
+<a href= "https://scratch.mit.edu/projects/566388553/fullscreen/">Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566388553/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

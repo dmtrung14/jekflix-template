@@ -15,5 +15,5 @@ tags:
   - intermediate
 author: minhtrung
 ---
-
+<a href= "https://scratch.mit.edu/projects/566386304/fullscreen/">Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566386304/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>

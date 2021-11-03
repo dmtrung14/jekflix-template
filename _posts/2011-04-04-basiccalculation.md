@@ -17,11 +17,5 @@ author: minhtrung
 
 
 
-<div style="position: relative; padding-top: 75%;" >
-    <figure >
-        <iframe style="position: absolute; top: 0; left: 0; Height:100%; Width:100%;" src="https://scratch.mit.edu/projects/566540009/embed"
-           frameborder="0" allowfullscreen="1" scrolling="no" >
-        </iframe >
-    </figure >
-</div >
+<a href="https://scratch.mit.edu/projects/566540009/fullscreen/"> Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566540009/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

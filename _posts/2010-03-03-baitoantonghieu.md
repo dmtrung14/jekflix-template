@@ -30,6 +30,6 @@ Insert theories here
 </div>
 
 # The game
-<iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="485" height="402" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>

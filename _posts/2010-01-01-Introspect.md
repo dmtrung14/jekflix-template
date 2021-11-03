@@ -27,7 +27,7 @@ accordion:
 <head>
 <style>
 h1 {text-align: center;}
-p {text-align: left;}
+p {text-align: justify;}
 </style>
 </head>
 <body>

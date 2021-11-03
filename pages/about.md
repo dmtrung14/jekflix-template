@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 accordion: 
   - title: How long have you been doing Maths?
-    content: Well Maths has been a vital part of my life since I was 3. I like to think that Mathematics exists in all kind of stories and objects we encounter in daily life. So I assume it is a vital part of *yours* life too!
+    content: Well Maths has been a vital part of my life since I was 3. I like to think that Mathematics exists in all kind of stories and objects we encounter in daily life. So I assume it is a vital part of *yours* too!
   - title: Do I like anything else?
     content: <p> Well, yes, I do! It might be surprising (or not), but I'm a big fan of astronomy and cosmology, and I really love sharing about extraterrestrial life.</p> <p> So if you would like to read it, here's my blog <a href="https://planetariats.wordpress.com/"> Planetariats </a>.</p>  <p> I hope you like both sites as much as I do! </p>
   - title: This site is too childish! How can I find you on more advanced Maths site? 

@@ -5,6 +5,11 @@ date: '2020-02-27 01:53:59'
 title: About
 permalink: /about/
 description: Some description.
+accordion:
+    - title: How long have you been doing Maths?
+    content: Well Maths has been a vital part of my life since I was 3. I like to think that Mathematics exists in all kind of stories and objects we encounter in daily life. So I assume it is a vital part of *yours* life too!
+    - title: Do I like anything else?
+    content: Well, yes, I do! It might be surprising (or not), but I'm a big fan of astronomy and cosmology, and I really love sharing about extraterrestrial life. <br> So if you would like to read it, here's my blog <a href="https://planetariats.wordpress.com/"> Planetariats <a>. I hope you like both sites as much as I do!
 ---
 
 <img class="img-rounded" src="https://res.cloudinary.com/dogipandt/image/upload/v1635869152/Minh_Trung_Dang-Circle_pjmzjw.jpg" alt="Dang Minh Trung" width="200">
@@ -23,13 +28,12 @@ Even though I take great pride in my achievements, they are not the entire mathe
 <head>
 <style>
 h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
+p {text-align: justify;}
 </style>
 </head>
 <body>
 
-<h1>FAQs</h1>
+<h1>FAQs about myself</h1>
 
 </body>
 </html>

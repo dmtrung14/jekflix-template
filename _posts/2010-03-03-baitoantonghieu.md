@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Sum and Difference Problem
 subtitle: Bài toán tổng hiệu
-description: Nàng Lọ Lem đi dạ hội
+description: Nàng Lọ Lem đi dạ hội, hãy giúp nàng gây ấn tượng với hoàng tử!
 image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 optimized_image: https://res.cloudinary.com/dogipandt/image/upload/v1635742744/sum-and-differrence_gukadr.png
 category: algebra

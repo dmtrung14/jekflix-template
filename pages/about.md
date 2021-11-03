@@ -30,8 +30,8 @@ h1 {text-align: center;}
 </head>
 <body>
 <h1>FAQs about me </h1>
-
+<div>
+{% include accordion.html %} </div>
 </body>
 
 
-{% include accordion.html %}

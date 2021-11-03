@@ -17,9 +17,9 @@ author: minhtrung
 paginate: true
 accordion: 
   - title: How to use
-    content: <p> On each page, you will see a brief introduction of the topic, and neccessary formulas (if there is) at the FAQs on top of the page. Then scroll down, you shall see the Scratch game embedded directly to the site. </p> <br> Not sure how to use the game?</br> Don't worry, inside the game, find the instruction button on the top right corner of the game, you will see the full guide to all features of the game. 
+    content: <p> On each page, you will see a brief introduction of the topic, and neccessary formulas (if there is) at the FAQs on top of the page. Then scroll down, you shall see the Scratch game embedded directly to the site. </p> <br> Not sure how to use the game? Don't worry, inside the game, find the instruction button on the top right corner of the game, you will see the full guide to all features of the game. 
   - title: What is the difficulty range of problems embedded on this project?
-    content: Elementary <br> And by *elementary*, I didn't meant elementary school, but elementary *maths*. All of the mathematics problems here can be solved with simple reasoning, with solutions that even primary schoolers can understand. However, there are still problems that I didn't encounter much later than primary school, which often requires experience to figure out. </br> <br> Still, they are games, try them out! </br>
+    content: <p> Elementary </p> <br> And by *elementary*, I didn't meant elementary school, but elementary *maths*. All of the mathematics problems here can be solved with simple reasoning, with solutions that even primary schoolers can understand. However, there are still problems that I didn't encounter much later than primary school, which often requires experience to figure out.  <br> Still, they are games, try them out! 
   - title: Can I re-use the games?
     content: Totally! Look for the "Clone the games" button on the top right of the page and click on it. It will lead you to my Scratch repository, where you can find the code for all the embedded content on this website. Feel free clone the code down and apply them to illustrate any math problem you want. 
   - title: Do we accept submission?

@@ -21,6 +21,6 @@ accordion:
     content: Okay
 ---
 {% include accordion.html %}
-$a^2+b=c^3$
+$$a^2+b=c^3$$
 <a href="https://scratch.mit.edu/projects/572196451/fullscreen/"> Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/572196451/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>

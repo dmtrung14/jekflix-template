@@ -25,10 +25,10 @@ accordion:
     content: Totally! Look for the "Clone the games" button on the top right of the page and click on it. It will lead you to my Scratch repository, where you can find the code for all the embedded content on this website. Feel free clone the code down and apply them to illustrate any math problem you want. 
   - title: Do we accept submission?
     content: To ensure the uniformity of content on the page, we currently do not accept submissions. However, you can suggest problems and games by sending email to me either via email or Facebook. 
-  - title: Do I teach online classes?
+  - title: Do you teach online classes?
     content: No, I don't. However, I have a *Theory* section at the beginning of each post. To view the *theory*, click on the button, and the content will drop down. When you practice, click on the button again to hide the *theory*.
   - title: Cannot toggle full screen?
-    content: Yes, toggle full screen seems to be unavailable on external web. Therefore, if you find it hard to read on Math Inspiration, I always embed a *Toggle full screen* button on top of each game. This should lead you to the fullscreen mode of the game.
+    content: Yes, toggle full screen for Scratch seems to be unavailable on external web. Therefore, if you find it hard to read on Math Inspiration, I always embed a *Toggle full screen* button on top of each game. This should lead you to the fullscreen mode of the game.
 
 ---
 

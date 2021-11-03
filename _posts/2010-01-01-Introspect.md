@@ -16,10 +16,12 @@ tags:
 author: minhtrung
 paginate: true
 accordion: 
-  - title: this is item 1
+  - title: How to use
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - title: Can I re-use the games?
+    content: Totally! Look for the "Clone the games" button on the top right of the page and click on it. It will lead you to my Scratch repository, where you can find the code for all the embedded content on this website. Feel free clone the code down and apply them to illustrate any math problem you want. 
+  - title: Do we accept submission?
+    content: to ensure the uniformity of content on the page, we currently do not accept submissions. However, you can suggest problems and games by sending email to me either via email or Facebook. 
 ---
 
 

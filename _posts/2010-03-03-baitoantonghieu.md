@@ -16,7 +16,7 @@ author: minhtrung
 paginate: true
 accordion:
   - title: Key concept
-    content: <p> if the sum of two variables is \(S\) and their difference is \(D\), then the larger variable equals \[L={S+D}\over 2 \] and the smaller variable equals \[Sm={S-D}\over 2\]<\p>
+    content: <p> if the sum of two variables is \(S\) and their difference is \(D\), then the larger variable equals \[L={{S+D}\over 2} \] and the smaller variable equals \[Sm={{S-D}\over 2}\]<\p>
     
   - title: Tools
     content: <p>An equation with two variables \(x,y\):\(ax+by=c\) has infinitely many </p>

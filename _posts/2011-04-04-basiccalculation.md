@@ -14,9 +14,8 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: Okay
-  - title: Tools
-    content: Okay
+    content: It's very simple! Practice makes perfect.
+
 ---
 {% include accordion.html %}
 <head>
@@ -28,6 +27,6 @@ accordion:
           src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
 </head>
-<p> When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]</p>
+
 <a href="https://scratch.mit.edu/projects/566540009/fullscreen/"> Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566540009/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

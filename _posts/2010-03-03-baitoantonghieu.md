@@ -19,7 +19,7 @@ accordion:
     content: <p> if the sum of two variables is \(S\) and their difference is \(D\), then the larger variable equals \[L={{S+D}\over 2} \] and the smaller variable equals \[Sm={{S-D}\over 2}\]
     
   - title: General Theory
-    content: <p>An equation with two variables \(x,y\):\[ax+by=c \tag{1} \] has infinitely many real roots. Therefore, in order to reduce the number of possible cases, we often need another equation\[dx+ey=f \tag{2} \]. To solve this system of equation, we first need to bring them to **one equation with one variable**.</p> <p> This can be done by multiplying (1) with d and multiplying (2) with a, then we have the following function of equations\[ \begin{cases}adx+bdy=cd \\ adx+aey=af\end{cases}\] <\p>
+    content: <p>An equation with two variables \(x,y\):\[ax+by=c \tag{1} \] has infinitely many real roots. Therefore, in order to reduce the number of possible cases, we often need another equation\[dx+ey=f \tag{2} \] To solve this system of equation, we first need to bring them to one equation with one variable.</p> <p> This can be done by multiplying (1) with d and multiplying (2) with a, then we have the following function of equations\[ \begin{cases}adx+bdy=cd \\ adx+aey=af\end{cases}\] <p> This apparently yields \(bdy-aey=cd-af\), which is a solvable equation with one variable. <\p>
 
 
 

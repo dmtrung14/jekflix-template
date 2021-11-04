@@ -17,7 +17,7 @@ accordion:
   - title: Key notations
     content: <p> \(\cap \) = intersection <p> \(cup\) = union. <p> Given 2 sets A, B. then \(\mid A \mid \) is the number of elements in A, and \(\mid A \cap \B \mid \) is the number of elements that belong to both A and B, and \(\mid A \cup \B \mid \) is the number of elemnts in either A or B. <\p>
   - title: Key tools
-    content: One of the key formula is \[\mid A \cup B \mid = \mid A \mid + \mid B \mid - \mid A \cap B \mid \]. It is easy to see that this equal to the number of elements that belong to A, and the number of element that belongs to B, minus those that belong to both sets (which were counted twice)
+    content: One of the key formula is \( \mid A \cup B \mid = \mid A \mid + \mid B \mid - \mid  A \cap B \mid \). It is easy to see that this equal to the number of elements that belong to A, and the number of element that belongs to B, minus those that belong to both sets (which were counted twice)
   - title: General theory
     content: <p> In general, the same proof can be applied to prove the more general case with n sets \(A_i\) for \(i \in \{1,2, \cdots ,n\} \), which states that \[\mid A \bigcup B \mid = \mid \bigcap_{i}A_i \mid - \mid \bigcap_{i,j}A_{i,j} \mid + \mid  \bigcap_{i,j,k}A_{i,j,k}\mid - \cdots \], and so on.
 ---

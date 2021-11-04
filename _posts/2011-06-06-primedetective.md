@@ -17,7 +17,7 @@ accordion:
   - title: Theory
     content: Prime numbers are numbers that have only 2 factors, namely 1 and themselves.
   - title: Prime factorizing a number
-    content: <p> It would be great if we can test all numbers from 1 to the number \(n\) itself, but that would be unnecessary. In order to know if a number is a prime or not, we only have to test all the prime numbers from 2 to \( \sqrt{n}\). <p> The reason is that, \(n\) cannot have 2 prime factors \(p,q\) greater than \(\sqrt{n}\), other wise, \(n=pq > \sqrt(n)^2), a contradiction. Therefore, if \(n\) is not a prime number, then it has at least one prime factor less than \(\sqrt{n}\)
+    content: <p> It would be great if we can test all numbers from 1 to the number \(n\) itself, but that would be unnecessary. In order to know if a number is a prime or not, we only have to test all the prime numbers from 2 to \( \sqrt{n}\). <p> The reason is that, \(n\) cannot have 2 prime factors \(p,q\) greater than \(\sqrt{n}\), other wise, \(n=pq > \sqrt(n)^2\), a contradiction. Therefore, if \(n\) is not a prime number, then it has at least one prime factor less than \(\sqrt{n}\)
 ---
 <head>
   <meta charset="utf-8">

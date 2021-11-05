@@ -30,4 +30,4 @@ accordion:
 </head>
 {% include accordion.html %}
 <a href= "https://scratch.mit.edu/projects/566389290/fullscreen/">Toggle fullscreen </a>
-<iframe src="https://scratch.mit.edu/projects/566389290/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/566389290/embed" allowtransparency="true" width="970" height="804" frameborder="0" scrolling="no" allowfullscreen></iframe>

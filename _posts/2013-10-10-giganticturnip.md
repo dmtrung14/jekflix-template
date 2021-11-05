@@ -15,13 +15,22 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: Okay
-  - title: Tools
-    content: Okay
+    content: <p> The key to understanding planting problems is identifying the number of spaces between the plants. If they are planted on one line, then the number of spaces between \(n\) plants is \(n-1\).
+  - title: Takeaway
+    content: <p> This might be helpful if you encounter problems related to multiple lines like in the challege of THIS game! <p> Then, one helpful approach is to call out the degree of a plant, which is the number of lines on which the tree is planted. Using simple deductions, we shall be able to calculate the number of trees for each degree, then start constructing with either those with highest degree, or those with lowest degrees.  
 ---
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
 {% include accordion.html %}
-<a href= "https://scratch.mit.edu/projects/566509821/fullscreen/">Toggle fullscreen </a>
-<iframe src="https://scratch.mit.edu/projects/566509821/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<a href= "https://scratch.mit.edu/projects/575177941/fullscreen/">Toggle fullscreen </a>
+<iframe src="https://scratch.mit.edu/projects/575177941/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 

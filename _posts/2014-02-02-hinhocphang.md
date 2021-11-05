@@ -14,9 +14,7 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: Okay
-  - title: Tools
-    content: Okay
+    content: Find the shapes, and drag it to the correct box. It's simple!
 ---
 {% include accordion.html %}
 <a href= "https://scratch.mit.edu/projects/566387030/fullscreen/">Toggle fullscreen </a>

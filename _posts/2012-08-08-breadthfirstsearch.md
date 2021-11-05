@@ -16,9 +16,9 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: Okay
-  - title: Tools
-    content: Okay
+    content: <p> The nature of the BFS theorem is actually recursive deduction. <p> Assume we have a checkerboard, on which there is a chess piece, and the piece can jump between the squares. Denote the degree of piece's initial square as 0. Then, the degree \(n+1\) squares are those which the piece can jump directly to if it was standing on a degree \(n\) square. 
+  - title: Key notices
+    content: <p> 1. The difference between the degree of 2 adjacent square is \(1\). <p> 2. Remember only use this algorithm for moves that go further from the initial square. In other words, do not jump back to a numbered tile! 
 ---
 {% include accordion.html %}
 <a href= "https://scratch.mit.edu/projects/566512570/fullscreen/">Toggle fullscreen </a>

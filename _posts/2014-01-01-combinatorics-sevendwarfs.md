@@ -15,9 +15,9 @@ tags:
 author: minhtrung
 accordion:
   - title: Combinatorics notations
-    content: <p> 1. \(\binom{n}{k}\) = The number of ways to choose k elements out of n elements. In some books, you might also see \(C_{n}^k\). 2. <p> \(n! = n \times (n-1) \times (n-2) \times \cdots \times 1\)
+    content: <p> 1. \(\binom{n}{k}\) = The number of ways to choose k elements out of n elements. In some books, you might also see \(C_{n}^k\). <p> 2. \(n! = n \times (n-1) \times (n-2) \times \cdots \times 1\)
   - title: Fomulas
-    content: <p> The number of ways to order n elements on a row = \(n!\). <p> Similarly, we have \(n!\) ways to arrange elements on a circle, but because the circle can be rotated \(n\) times, the number of ways to order n elements on a circle is \[\frac{n!}{n} = (n-1)! \] The number of ways to select k out of n elements is \[\binom{n}{k}=\frac{n!}{k!(n-k)!}\] This is the *combination* of k elements, they don't bother order of selection. But *permutation* does. The permutation of k out of n elements is \[P_{n}^k=\frac{n!}{(n-k)!}\]Make sure not to confuse between the two notations. 
+    content: <p> The number of ways to order n elements on a row = \(n!\). <p> Similarly, we have \(n!\) ways to arrange elements on a circle, but because the circle can be rotated \(n\) times, the number of ways to order n elements on a circle is \[\frac{n!}{n} = (n-1)! \] The number of ways to select k out of n elements is \[\binom{n}{k}=\frac{n!}{k!(n-k)!}\] This is the \(\textbf{combination}\) of k elements, they don't bother order of selection. But \(textbf{permutation}\) does. The permutation of k out of n elements is \[P_{n}^k=\frac{n!}{(n-k)!}\]Make sure not to confuse between the two notations. 
 ---
 <head>
   <meta charset="utf-8">

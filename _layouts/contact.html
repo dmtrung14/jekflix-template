@@ -13,10 +13,10 @@ layout: page
 
 <div class="container">
 
-  <h2>{{ site.translations.contact.title | default: "Ana Ne e Bro" }}</h2>
+  <h2>{{ site.translations.contact.title | default: "Hi! Reach out to me here." }}</h2>
 
   <div id="form" class="contact-form">
-    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{% if site.formspree_form_id %}f/{{ site.formspree_form_id }}{% else %}{{ site.email }}{% endif %}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
+    <form accept-charset="UTF-8" method="POST" action="https://formspree.io/f/xbjqvzol" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />

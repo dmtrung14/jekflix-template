@@ -4,7 +4,7 @@ photo: https://res.cloudinary.com/dogipandt/image/upload/v1635869152/Minh_Trung_
 name: minhtrung
 display_name: Dang Minh Trung
 position: Founder/Coder
-bio: A mathematician, Coder, and Prospective science communicator
+bio: Mathematician, Webmaster, and Prospective Science communicator
 github_username: dmtrung14
 facebook_username: https://www.facebook.com/the.matheMagicia/
 instagram_username: minhtrung__dang

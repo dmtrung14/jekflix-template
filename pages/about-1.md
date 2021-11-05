@@ -25,6 +25,4 @@ Even though I take great pride in my achievements, they are not the entire mathe
 
  I hope that you will have an enjoyable using my website. For any inquiry, please reach out to me at: trungdangminh14012004@gmail.com
 
-<h1>Q&A {% include accordion.html %}</h1>
-
 

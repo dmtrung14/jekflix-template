@@ -29,6 +29,8 @@ accordion:
     content: No, I don't. However, I have a *Theory* section at the beginning of each post. To view the *theory*, click on the button, and the content will drop down. When you practice, click on the button again to hide the *theory*.
   - title: Cannot toggle full screen?
     content: Yes, toggle full screen for Scratch seems to be unavailable on external web. Therefore, if you find it hard to read on Math Inspiration, I always embed a *Toggle full screen* button on top of each game. This should lead you to the fullscreen mode of the game.
+  - title: This site is too childish! How can I find you on more advanced Maths site? 
+    content: I'm glad you asked. Mathematic forums has been a vital parts of my Olympiad training. Currently I have an active account on AOPS and MSE. I mostly use AOPS to look up problems and search for materials, while I am a more active writer and member on MSE. You can find my questions and answers on my <a href="https://math.stackexchange.com/users/756249/nikola-tolzsek"> MSE Profile - Nikola Tolzsek </a>
 
 ---
 

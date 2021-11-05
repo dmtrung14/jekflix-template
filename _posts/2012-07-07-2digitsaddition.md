@@ -15,6 +15,15 @@ accordion:
   - title: Theory
     content: <p> It's great if you can add numbers quickly in the traditional way. Now consider the following quick way\[\bar{ab}+\bar{cd}= 10 \times (a+c) + (b+d)\]. <p> In words, try adding the tens, then multiply them by ten, and add the result to the sum of the unit digits.</p>
 ---
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
 {% include accordion.html %}
 <a href= "https://scratch.mit.edu/projects/566528570/fullscreen/">Toggle fullscreen </a>
 <iframe src="https://scratch.mit.edu/projects/566528570/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: <p> It's great if you can add numbers quickly in the traditional way. Now consider the following quick way\[\bar{ab}+\bar{cd}= 10 \times (a+c) + (b+d)\]. <p> In words, try adding the tens, then multiply them by ten, and add the result to the sum of the unit digits.</p>
+    content: <p> It's great if you can add numbers quickly in the traditional way. Now consider the following quick way\[\overline{ab}+\overline{cd}= 10 \times (a+c) + (b+d)\]. <p> In words, try adding the tens, then multiply them by ten, and add the result to the sum of the unit digits.</p>
 ---
 <head>
   <meta charset="utf-8">

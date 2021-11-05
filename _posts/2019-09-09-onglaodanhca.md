@@ -16,7 +16,7 @@ accordion:
   - title: System of equations
     content: on the theory about systems of equations, please refer to <a href="https://dmtrung14.github.io/mathinspiration/baitoantonghieu/"> this game </a>.
   - title: General Theory
-    content: <p> given the system of equation \[\begin{cases}a \timesx + b\times y=c (1) \\ \frac{x}{y}=d (2) \end{cases}\], then from (2), we have \(x=\frac{d}{y}\). Swap \(x\) for \(\frac{d}{y}\) in (1), we have a quadratic equation of variable y. <p> Now if you are primary schooler and have not been able to solve quadratic equations, then the given \(d\) should also be rational and \(d=\frac{e}{f}\). <p> Then, in (1), swap \(x\) for \(ez\), \(y\) for \(fz\). We shall have an easy equation for variable \(z\). <p> Remember to find \(x\) and \(y\), don't stop after you find \(z\)!   
+    content: <p> given the system of equation \[\begin{cases}a \times x + b\times y=c \\ \frac{x}{y}=d \end{cases}\], Denote the first equation as (1), and the second equation as (2). <p> then from (2), we have \(x=\frac{d}{y}\). Swap \(x\) for \(\frac{d}{y}\) in (1), we have a quadratic equation of variable y. <p> Now if you are primary schooler and have not been able to solve quadratic equations, then the given \(d\) should also be rational and \(d=\frac{e}{f}\). <p> Then, in (1), swap \(x\) for \(ez\), \(y\) for \(fz\). We shall have an easy equation for variable \(z\). <p> Remember to find \(x\) and \(y\), don't stop after you find \(z\)!   
 ---
 <head>
   <meta charset="utf-8">

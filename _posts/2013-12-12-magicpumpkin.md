@@ -1,5 +1,5 @@
 ---
-date: 2017-07-29 13:24:49
+date: 2020-07-29 13:24:49
 layout: post
 title: Magic Pumpkin - The 'singular' algorithm
 description: Quả bí ngô kì diệu - thuật toán đơn độc

@@ -1,5 +1,5 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2020-06-05 12:26:40
 layout: post
 title: Find the sum of two digits number
 subtitle: Tìm tổng các số có hai chữ số

@@ -19,5 +19,5 @@ Even though I take great pride in my achievements, they are not the entire mathe
 
  I hope that you will have an enjoyable experience using my website. For any inquiry, please reach out to me at: trungdangminh14012004@gmail.com
 
-<a href="https://math.stackexchange.com/users/756249/nikola-tolzsek"><img src="https://math.stackexchange.com/users/flair/756249.png" width="208" height="69" alt="profile for Nikola Tolzsek at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Nikola Tolzsek at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
+<a href="https://math.stackexchange.com/users/756249/nikola-tolzsek"><img src="https://math.stackexchange.com/users/flair/756249.png" width="208" height="100" alt="profile for Nikola Tolzsek at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Nikola Tolzsek at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields"></a>
 

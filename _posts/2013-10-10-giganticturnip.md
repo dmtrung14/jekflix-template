@@ -1,5 +1,5 @@
 ---
-date: 2017-08-14 22:55:45
+date: 2020-07-14 22:55:45
 layout: post
 title: Gigantic Turnip - planting problems
 subtitle: Nhổ củ cải - bài toán trồng cây

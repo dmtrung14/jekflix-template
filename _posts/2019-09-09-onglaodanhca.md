@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2021-04-04 12:26:40
 layout: post
 title: Fisherman and the golden fish - Ratio
 subtitle: Ông lão đánh cá và con cá vàng - Bài toán tỉ lệ

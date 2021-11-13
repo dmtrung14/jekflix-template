@@ -1,5 +1,5 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2020-07-21 12:26:40
 layout: post
 title: Prime detective
 subtitle: Thám tử số nguyên tố

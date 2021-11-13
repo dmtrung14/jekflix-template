@@ -1,5 +1,5 @@
 ---
-date: 2017-05-11 12:00:00
+date: 2021-06-11 12:00:00
 layout: post
 title: Witch Bakery - Number patterns, divisibility, and remainders
 subtitle: Tiệm bánh phù thủy - Quy luật dãy số, tính chia hết, và số dư

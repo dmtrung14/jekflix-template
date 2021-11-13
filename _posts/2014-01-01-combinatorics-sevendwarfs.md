@@ -1,5 +1,5 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2021-06-08 12:00:00
 layout: post
 title: Snow White and the Seven Dwarfs - Combination
 subtitle: Nàng Bạch Tuyết và Bảy chú lùn - Toán tổ hợp

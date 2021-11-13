@@ -1,5 +1,5 @@
 ---
-date: 2017-06-04 12:00:00
+date: 2020-08-04 12:00:00
 layout: post
 title: Geometric learning with household utensils
 subtitle: Hình học trong dụng cụ gia đình

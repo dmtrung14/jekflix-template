@@ -1,5 +1,5 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2021-01-14 12:26:40
 layout: post
 title: Venn diagram
 subtitle: Bài toán biểu đồ Ven

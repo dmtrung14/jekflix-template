@@ -1,5 +1,5 @@
 ---
-date: 2017-08-07 23:04:08
+date: 2020-09-07 23:04:08
 layout: post
 title: Quiz - Paint the fence
 subtitle: Bài toán đố - Tô màu hàng rào

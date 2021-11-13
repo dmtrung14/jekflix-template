@@ -16,9 +16,7 @@ tags:
 author: minhtrung
 accordion:
   - title: Theory
-    content: Okay
-  - title: Tools
-    content: Okay
+  - content: please refer to the Theory included in the game.
 ---
 <head>
   <meta charset="utf-8">

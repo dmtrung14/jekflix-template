@@ -11,8 +11,7 @@ In early 2020, when the first COVID-19 waves hit Vietnam and put everyone on loc
 
 All problems are listed in the collage chronologically, with English title and Vietnamese description for referral. Click on the tags to see problems by topics. We cover more than 10 key words, each of which corresponds to a problem type that orients brainstorming process!
 
-## Table of Contents
-- [Sections](#sections)
+## Table of Contents:
 - [How to Use](#how-to-use)
 - [Deployment](#deployment)
 - [Technologies Used](#technologies-used)
@@ -39,13 +38,13 @@ This website is also hosted using github website. On how to create a github webs
 
 Briefly explained, you first have to go to your repository `Setting` on github, and change your `Page` settings to `Deploy from a branch`. (GitHub has made site deployment much easier recently), and configure the source in your `config.yml` file.
 
-## Technology Used:
+## Technologies Used:
 -  JavaScript
 -  Jekyll
 -  Accordion
 -  Bootstrap
 
-## Contributions:
+## Contributiors:
 - Thanks goes to all my wonderful students, who worked passionately to realize this project ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 - Best tributes to [ThiagoRossener](https://rossener.com/), the creator of this Jekflix Template.
 

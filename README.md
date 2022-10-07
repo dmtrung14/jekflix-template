@@ -1,7 +1,9 @@
 # Math Inspiration Project
 In early 2020, when the first COVID-19 waves hit Vietnam and put everyone on lockdown, a few students requested that I tutor them in Math. It struck me that most of them did not understand the underlying principles of problem solving, and was machininistically approaching math homeworks. This motivated me to start Math Inspiration, a personal, non-profit project that aims to create a logical and brainstorming playground for primary school students in my hometown. Starting from a small classroom at my house, we expanded to more than 80 students attending bi-weekly meetings where we had combinatorics games and learned scratch code. This website provides a collage to display our efforts and achievemnet through time.
+## Accessing the Website
+The project is available at: https://dmtrung14.github.io/mathinspiration/
 
-# An eye-catching and well-organized Math learning website
+## An eye-catching and well-organized Math learning website
 <p align="center">
   <kbd>
 <img src="https://user-images.githubusercontent.com/60612625/194202511-d2566a85-fd45-4a8d-ad8a-baf60446ef5d.gif"></img>
